@@ -1,8 +1,7 @@
 # 👨‍💻 Aanthonytomas      
 
 **`Digital Craftsman (Aspiring Software Engineer/Full Stack Developer)`** 
-<br>
-<em>I'm Computer Science student from Philippines, building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All of the information and code I've learned through internet helps me to develop my skills. I'm also planning to do blogs and share some knowledge about my coding journey. </em>
+I'm Computer Science student from Philippines, building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All of the information and code I've learned through internet helps me to develop my skills. I'm also planning to do blogs and share some knowledge about my coding journey. 
 
  <p align="left">
    <a href="https://github.com/aanthonytomas?tab=followers">
