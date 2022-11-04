@@ -14,7 +14,7 @@ I'm Computer Science student from Philippines, building my version of the digita
 
 ### Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -28,6 +28,7 @@ I'm Computer Science student from Philippines, building my version of the digita
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://th.bing.com/th/id/R.6597cc35589236a430e20f4d2adf09a6?rik=1gQ5rMvntrIpIQ&riu=http%3a%2f%2fmaddesigns.de%2frwd-sass-compass%2fimg%2fsass-logo-new.png&ehk=6Ifu2pnyjlY8s4ajUlsHaaRPMyukr4Y1q8DrLdwfHqE%3d&risl=&pid=ImgRaw&r=0" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br />
