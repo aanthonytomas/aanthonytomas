@@ -20,8 +20,8 @@ I'm Computer Science student from Philippines, building my version of the digita
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JQuery" width="30px" style="padding-right:10px;" src="https://th.bing.com/th/id/R.a3af0655fc9a481401550b5be0e86cab?rik=r%2bmjSUkqcd7Y5Q&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fjquery-logo-png-jquery-320.png&ehk=2bSbP1WVO8sDHPLWdvQ%2b9KJLxpqt9LPlEu0TicUJBVk%3d&risl=&pid=ImgRaw&r=0" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="JQuery" width="30px" style="padding-right:10px;" src="https://th.bing.com/th/id/R.a3af0655fc9a481401550b5be0e86cab?rik=r%2bmjSUkqcd7Y5Q&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fjquery-logo-png-jquery-320.png&ehk=2bSbP1WVO8sDHPLWdvQ%2b9KJLxpqt9LPlEu0TicUJBVk%3d&risl=&pid=ImgRaw&r=0" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
