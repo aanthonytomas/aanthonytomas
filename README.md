@@ -44,12 +44,6 @@ I'm Computer Science student from Philippines, building my version of the digita
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=aanthonytomas&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
     
-
-#
-  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aanthonytomas&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)  
-
-#
   
 ### Profile Views Count 
 
