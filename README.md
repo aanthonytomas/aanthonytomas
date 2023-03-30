@@ -36,9 +36,6 @@ I'm Computer Science student from Philippines, building my version of the digita
 
 #
 
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-	
 ### 
 	
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
