@@ -30,6 +30,7 @@ I'm Computer Science student from Philippines, building my version of the digita
 <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://th.bing.com/th/id/R.6597cc35589236a430e20f4d2adf09a6?rik=1gQ5rMvntrIpIQ&riu=http%3a%2f%2fmaddesigns.de%2frwd-sass-compass%2fimg%2fsass-logo-new.png&ehk=6Ifu2pnyjlY8s4ajUlsHaaRPMyukr4Y1q8DrLdwfHqE%3d&risl=&pid=ImgRaw&r=0" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://logodix.com/logo/732150.png"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="[https://logodix.com/logo/732150.png](https://brandlogos.net/wp-content/uploads/2021/11/visual-studio-code-logo.png)"/>
 
 
 <br />
