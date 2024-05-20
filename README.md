@@ -47,7 +47,7 @@ I'm Computer Science student from Philippines, building my version of the digita
   
 ### Profile Views Count 
 
-![](https://count.getloli.com/get/@aanthonytomas.github.readme)
+(https://komarev.com/ghpvc/?username=yourusername&color=blue)
 </br>
 #
 	
