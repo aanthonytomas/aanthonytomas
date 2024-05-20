@@ -44,9 +44,7 @@ I'm Computer Science student from Philippines, building my version of the digita
 
 #	
 ### Connect with me  
-
-<br>
-<br>		
+	
 <br>	 
 <p align=center>
 <a href="https://github.com/aanthonytomas"><img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
