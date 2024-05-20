@@ -12,6 +12,7 @@ I'm Computer Science student from Philippines, building my version of the digita
    </p> 
 
 --- 
+<br></br>
 
 ### :gear: Languages and Tools
 
@@ -35,11 +36,8 @@ I'm Computer Science student from Philippines, building my version of the digita
 <br />
 
 #
-
-	
-	
-	
-### Stats
+#
+### Statistics
 <div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aanthonytomas&theme=transparent)
@@ -48,7 +46,9 @@ I'm Computer Science student from Philippines, building my version of the digita
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aanthonytomas&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aanthonytomas&theme=transparent&utcOffset=8)
 
-	
+
+#
+#	
 ### Connect with me  
 
 <br>
