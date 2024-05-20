@@ -12,7 +12,7 @@ I'm Computer Science student from Philippines, building my version of the digita
    </p> 
 
 --- 
-<br></br>
+<br>
 
 ### :gear: Languages and Tools
 
@@ -32,10 +32,6 @@ I'm Computer Science student from Philippines, building my version of the digita
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://logodix.com/logo/732150.png"/>
 
-
-<br />
-
-#
 #
 ### Statistics
 <div>
@@ -46,8 +42,6 @@ I'm Computer Science student from Philippines, building my version of the digita
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aanthonytomas&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aanthonytomas&theme=transparent&utcOffset=8)
 
-
-#
 #	
 ### Connect with me  
 
