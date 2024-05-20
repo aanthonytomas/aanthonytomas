@@ -45,13 +45,14 @@ I'm Computer Science student from Philippines, building my version of the digita
     ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aanthonytomas&theme=transparent)
 	
     
-</div>
+
+
 ### Profile Views Count 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 </br>
 #
-	
+</div>	
 ### Trophies
 <div>	
     <a href="https://github.com/ryo-ma/github-profile-trophy">
