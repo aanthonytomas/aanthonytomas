@@ -47,21 +47,6 @@ I'm Computer Science student from Philippines, building my version of the digita
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aanthonytomas&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aanthonytomas&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aanthonytomas&theme=transparent&utcOffset=8)
-	
-    
-
-
-### Profile Views Count 
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-</br>
-#
-</div>	
-### Trophies
-<div>	
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aanthonytomas&row=4&theme=onedark&no-frame=true"/>
-</div>
 
 	
 ### Connect with me  
