@@ -22,7 +22,6 @@ I'm Computer Science student from Philippines, building my version of the digita
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="JQuery" width="30px" style="padding-right:10px;" src="https://th.bing.com/th/id/R.a3af0655fc9a481401550b5be0e86cab?rik=r%2bmjSUkqcd7Y5Q&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fjquery-logo-png-jquery-320.png&ehk=2bSbP1WVO8sDHPLWdvQ%2b9KJLxpqt9LPlEu0TicUJBVk%3d&risl=&pid=ImgRaw&r=0" />
-
 <img align="left" alt="React" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -31,7 +30,8 @@ I'm Computer Science student from Philippines, building my version of the digita
 <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://th.bing.com/th/id/R.6597cc35589236a430e20f4d2adf09a6?rik=1gQ5rMvntrIpIQ&riu=http%3a%2f%2fmaddesigns.de%2frwd-sass-compass%2fimg%2fsass-logo-new.png&ehk=6Ifu2pnyjlY8s4ajUlsHaaRPMyukr4Y1q8DrLdwfHqE%3d&risl=&pid=ImgRaw&r=0" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://logodix.com/logo/732150.png"/>
-<br>
+
+<br></br>
 #
 ### :fleur_de_lis: Statistics
 <div>
