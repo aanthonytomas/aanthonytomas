@@ -1,4 +1,4 @@
-### 👨‍💻 Aanthonytomas      
+# 👨‍💻 Aanthonytomas      
 
 **`Digital Craftsman (Aspiring Software Engineer/Full Stack Software Developer)`** <br>		
 
@@ -10,8 +10,8 @@ I'm Computer Science student from Philippines, building my version of the digita
       <a href="https://github.com/aanthonytomas?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aanthonytomas?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p> 
---- 
-
+   
+#
 ### :gear: Languages and Tools
 
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
