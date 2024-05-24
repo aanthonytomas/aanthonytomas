@@ -6,7 +6,7 @@ I'm Computer Science student from Philippines, building my version of the digita
 
  <p align="left">
 	 
-[![stars](https://custom-icon-badges.demolab.com/github/stars/DenverCoder1/custom-icon-badges?logo=star)](https://github.com/DenverCoder1/custom-icon-badges/stargazers "stars")
+[![stars](https://custom-icon-badges.demolab.com/github/stars/aanthonytomas/custom-icon-badges?logo=star)](https://github.com/aanthonytomas/custom-icon-badges/stargazers "stars")
 
    <p align="center">
 
