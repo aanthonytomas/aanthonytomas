@@ -41,7 +41,6 @@ I'm Computer Science student from Philippines, building my version of the digita
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aanthonytomas&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aanthonytomas&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aanthonytomas&theme=transparent&utcOffset=8)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aanthonytomas&theme=transparent&hide_border=true&border_radius=0&card_width=760)](https://git.io/streak-stats)
 
 
 #	
