@@ -6,7 +6,6 @@ I'm Computer Science student from Philippines, building my version of the digita
 
  <p align="left">
 
-
  
 #
 ### :gear: Languages and Tools
