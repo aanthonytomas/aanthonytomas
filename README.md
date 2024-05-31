@@ -5,8 +5,7 @@
 I'm Computer Science student from Philippines, building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All of the information and code I've learned through internet helps me to develop my skills. I'm also planning to do blogs and share some knowledge about my coding journey. 
 
  <p align="left">
-
- 
+	 
 #
 ### :gear: Languages and Tools
 
@@ -22,13 +21,9 @@ I'm Computer Science student from Philippines, building my version of the digita
 <img align="left" alt="VSC" width="40px" style="padding-right:10px;" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png"/>
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
-
-
 <br></br>
 #
 ### :fleur_de_lis: Statistics
-<div>
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aanthonytomas&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aanthonytomas&theme=transparent)
