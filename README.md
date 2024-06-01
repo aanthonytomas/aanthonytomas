@@ -23,7 +23,7 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 ### :gear: Currently learning
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="NodeJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
+<br></br>
 #
 ### :fleur_de_lis: Statistics
 
