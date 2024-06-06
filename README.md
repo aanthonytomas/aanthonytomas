@@ -7,7 +7,7 @@ I'm a Computer Science student from the Philippines, passionately building my ve
  <p align="left">
 	   
 #
-### ⚙️: Languages and Tools
+### ⚙️: Languages and Tools 
 
 	
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
