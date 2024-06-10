@@ -1,21 +1,25 @@
+
+
 # 👨‍💻 Aanthonytomas      
+<p>
+	
+**`Digital Craftsman (Aspiring Full Stack Software Developer/Engineer)`**  <br>
 
-**`Digital Craftsman (Aspiring Full Stack Software Engineer/Developer)`** <br>		
-
+</p>
 I'm a Computer Science student from the Philippines, passionately building my version of the digital world one step at a time. I create coding projects from the ground up, tackling every aspect from planning and designing to solving real-life problems with code. Leveraging knowledge and resources from the internet has been crucial in developing my skills. I'm currently focusing on front-end development with aspirations to become a full-stack developer. 
-
+<br><br>
 <a href="https://github.com/aanthonytomas">
-  <img src="https://visitcount.itsvg.in/api?id=aanthonytomas&label=Profile%20Views&color=12&icon=5&pretty=true" />
+  <img align="center" src="https://visitcount.itsvg.in/api?id=aanthonytomas&label=Profile%20Views&color=12&icon=5&pretty=true" />
 </a>
 
  <p align="left">
 	    
 #
-### ⚙️: Languages and Tools 
+### ⚙️ Languages and Tools 
 
 
 <p align="left" > 
-
+&nbsp &nbsp 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> 
@@ -34,9 +38,13 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 
 
 #
-### 📑: Currently learning
+### 📑 Currently learning
 
+<p>
+	&nbsp &nbsp   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+
+</p>
 
 
 #
@@ -45,13 +53,10 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aanthonytomas&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aanthonytomas&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aanthonytomas&theme=transparent&utcOffset=8)
-
-<a href="https://github.com/aanthonytomas/convoychat"><img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanthonytomas&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true&bg_color=00000000&cache_seconds=21600" />
+<a href="https://github.com/aanthonytomas/convoychat"><img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanthonytomas&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true&bg_color=00000000&cache_seconds=21600&disable_animations=true" />
 </a>
 
-
-
-### :link: Connect with me  
+### :email: Connect with me  
 	
 <br>	 
 <p align=center>
