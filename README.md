@@ -1,6 +1,6 @@
 
-
-# 👨‍💻 Aanthonytomas      
+<h1 align="left">👨‍💻 Aanthonytomas  </h1>
+    
 <p>
 	
 **`Digital Craftsman (Aspiring Full Stack Software Developer/Engineer)`**  <br>
@@ -14,8 +14,9 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 
  <p align="left">
 	    
-#
-### ⚙️ Languages and Tools 
+<h2 align="left">⚙️ Languages and Tools </h2>
+
+### 
 
 
 <p align="left" > 
@@ -36,9 +37,8 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 </p>
 
 
+<h2 align="left">📑 Currently learning</h2>
 
-#
-### 📑 Currently learning
 
 <p>
 	&nbsp &nbsp   
@@ -47,8 +47,8 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 </p>
 
 
-#
-### :fleur_de_lis: Statistics
+<h2 align="left">:fleur_de_lis: Statistics</h2>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aanthonytomas&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aanthonytomas&theme=transparent)
@@ -56,7 +56,7 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 <a href="https://github.com/aanthonytomas/convoychat"><img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanthonytomas&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true&bg_color=00000000&cache_seconds=21600&disable_animations=true" />
 </a>
 
-### :email: Connect with me  
+<h2 align="left">:email: Connect with me</h2>
 	
 <br>	 
 <p align=center>
