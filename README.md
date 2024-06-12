@@ -1,9 +1,9 @@
 
-<h1 align="left">👨‍💻 Aanthonytomas  </h1>
+<h1 align="left">👨‍💻 Aanthonytomas</h1>
     
 <p>
 	
-**`Digital Craftsman (Aspiring Full Stack Software Developer/Engineer)`**  <br>
+**`Digital Craftsman (Aspiring Full Stack Software Developer/Engineer)`**<br>
 
 </p>
 I'm a Computer Science student from the Philippines, passionately building my version of the digital world one step at a time. I create coding projects from the ground up, tackling every aspect from planning and designing to solving real-life problems with code. Leveraging knowledge and resources from the internet has been crucial in developing my skills. I'm currently focusing on front-end development with aspirations to become a full-stack developer. 
@@ -28,7 +28,6 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="36"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="38" height="38"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
@@ -41,7 +40,8 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 
 
 <p>
-	&nbsp &nbsp   
+	&nbsp &nbsp
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/>	
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 
 </p>
