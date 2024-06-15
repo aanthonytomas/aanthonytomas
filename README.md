@@ -2,7 +2,7 @@
 <h1 align="left">👨‍💻 Aanthonytomas</h1>
 <p>	
 	
-**`Digital Craftsman (Aspiring Full Stack Software Developer/Engineer)`**<br>
+**`Digital Craftsman (Aspiring Full Stack Software Developer/Engineer)`**<br> 
  
 </p>
 
