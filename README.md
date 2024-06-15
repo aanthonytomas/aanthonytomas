@@ -3,7 +3,7 @@
 <p>	
 	
 **`Digital Craftsman (Aspiring Full Stack Software Developer/Engineer)`**<br> 
- 
+  
 </p>
 
 I'm a Computer Science student from the Philippines, passionately building my version of the digital world one step at a time. I create coding projects from the ground up, tackling every aspect from planning and designing to solving real-life problems with code. Leveraging knowledge and resources from the internet has been crucial in developing my skills. I'm currently focusing on front-end development with aspirations to become a full-stack developer. 
