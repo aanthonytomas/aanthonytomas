@@ -39,11 +39,3 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 <a href="https://github.com/aanthonytomas/convoychat"><img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanthonytomas&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true&bg_color=00000000&cache_seconds=21600&disable_animations=true" />
 </a>
 
-<h2 align="left">Connect with me</h2>
-	
-<br>	 
-<p align=center>
-<a href="https://github.com/aanthonytomas"><img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/aanthonytomas/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
-<a href="https://twitter.com/aanthonytomas"><img src="https://user-images.githubusercontent.com/58532023/171218519-2ccc030a-72b5-45ea-a2ec-7f1dfbef917f.png" alt="Twitter"/></a>
-</p>
