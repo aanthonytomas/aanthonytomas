@@ -21,7 +21,7 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/>
 	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>  
-
+ 
 <h2 align="left">Currently learning</h2>
 <p>
 	&nbsp &nbsp
