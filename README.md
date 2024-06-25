@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/aanthonytomas/count.svg?"  />
+</div>
+
+###
+
 <h1 align="left">👨‍💻 Aanthonytomas</h1> <a  href="https://github.com/aanthonytomas">
 	  <img align="right" src="https://visitcount.itsvg.in/api?id=aanthonytomas&label=Profile%20Views&color=12&icon=5&pretty=true" />
 </a>
@@ -41,4 +47,10 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 <a href="https://github.com/aanthonytomas/convoychat"><img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanthonytomas&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true&bg_color=00000000&cache_seconds=21600&disable_animations=true" />
 </a>
 
+## Contact Me
+
+You can reach out to me through the following platforms:
+
+- **LinkedIn**: [Anthony Tomas](https://www.linkedin.com/in/aanthonytomas)
+- **Email**: [aanthonytomas2@gmail.com](mailto:aanthonytomas2@gmail.com)
 
