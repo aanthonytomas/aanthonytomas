@@ -11,8 +11,8 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 	    
 <h2 align="left">Languages & Frameworks </h2>
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,cpp,java,git,tailwind&theme=light"/>
-	<img src="https://skillicons.dev/icons?i=java,git,tailwind"/>
+	<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,cpp,java,git,tailwind"/>
+
   </a>
 </p>
 
