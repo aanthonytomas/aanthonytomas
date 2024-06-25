@@ -11,21 +11,21 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 	    
 <h2 align="left">Languages & Frameworks </h2>
 <p align="left">
-	<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,cpp,md,php,java,tailwind&theme=light"/>
+	<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,cpp,md,php,java,tailwind"/>
 
   </a>
 </p>
 
 <h2 align="left">Currently learning</h2>
 <p align="left">
-	<img src="https://skillicons.dev/icons?i=mongodb,react,nodejs&theme=light"/>
+	<img src="https://skillicons.dev/icons?i=mongodb,react,nodejs"/>
 
   </a>
 </p>
 
 <h2 align="left">Developer Tools</h2>
 <p align="left">
-	<img src="https://skillicons.dev/icons?i=git,vscode,eclipse&theme=light"/>
+	<img src="https://skillicons.dev/icons?i=git,vscode,eclipse"/>
 
   </a>
 </p>
