@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/aanthonytomas/count.svg?"  />
-</div>
+
 
 ###
 
