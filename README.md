@@ -49,6 +49,6 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 
 You can reach out to me through the following platforms:
 
-- **LinkedIn**: [Anthony Tomas](https://www.linkedin.com/in/aanthonytomas)
+- **LinkedIn**: [Mark Anthony Tomas](https://www.linkedin.com/in/aanthonytomas)
 - **Email**: [aanthonytomas2@gmail.com](mailto:aanthonytomas2@gmail.com)
 
