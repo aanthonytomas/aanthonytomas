@@ -10,19 +10,27 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 
 	    
 <h2 align="left">Languages & Frameworks </h2>
-<p align="center">
-	<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,cpp,java,git,tailwind"/>
+<p align="left">
+	<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,cpp,md,php,java,tailwind&theme=light"/>
 
   </a>
 </p>
 
 <h2 align="left">Currently learning</h2>
-<p>
-	&nbsp &nbsp
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/>	
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><img 	src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
- 
-</p>   
+<p align="left">
+	<img src="https://skillicons.dev/icons?i=mongodb,react,nodejs&theme=light"/>
+
+  </a>
+</p>
+
+<h2 align="left">Developer Tools</h2>
+<p align="left">
+	<img src="https://skillicons.dev/icons?i=git,vscode,eclipse&theme=light"/>
+
+  </a>
+</p>
+
+
 
 <h2 align="left">Statistics</h2>
 
