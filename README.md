@@ -8,12 +8,12 @@
 I'm a Computer Science student from the Philippines, passionately building my version of the digital world one step at a time. I create coding projects from the ground up, tackling every aspect from planning and designing to solving real-life problems with code. Leveraging knowledge and resources from the internet has been crucial in developing my skills. I'm currently focusing on front-end development with aspirations to become a full-stack developer. 	    
 <h2 align="left">Languages & Frameworks </h2>
 <p align="left">
-	<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,typescript,cs,cpp,php,java,md"/>
+	<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,cpp,php,java,md"/>
   </a>
 </p>
 <h2 align="left">Currently learning</h2>
 <p align="left">
-	<img src="https://skillicons.dev/icons?i=mongodb,react,nodejs,tailwind"/>
+	<img src="https://skillicons.dev/icons?i=typescript,mongodb,react,nodejs,tailwind"/>
   </a>
 </p>
 
