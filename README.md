@@ -19,7 +19,7 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 
 <h2 align="left">Developer Tools</h2>
 <p align="left">
-	<img src="https://skillicons.dev/icons?i=git,vscode,eclipse"/>
+	<img src="https://skillicons.dev/icons?i=git,npm,bash,powershell,vscode,eclipse,"/>
   </a>
 </p>
 <h2 align="left">Statistics</h2>
