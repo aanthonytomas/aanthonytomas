@@ -34,10 +34,14 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 </a> 
 
 
-<h2 align="left">Statistics</h2>
+##
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aanthonytomas&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aanthonytomas&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aanthonytomas&theme=transparent&utcOffset=8)
-<a href="https://github.com/aanthonytomas/convoychat"><img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanthonytomas&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true&bg_color=00000000&cache_seconds=21600&disable_animations=true" />
-</a>
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aanthonytomas&theme=transparent" alt="Profile Details"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aanthonytomas&theme=transparent" alt="Stats"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aanthonytomas&theme=transparent&utcOffset=8" alt="Productive Time"/>
+    <a href="https://github.com/aanthonytomas/convoychat">
+        <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanthonytomas&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true&bg_color=00000000&cache_seconds=21600&disable_animations=true" alt="Top Languages"/>
+    </a>
+</div>
+
