@@ -10,6 +10,12 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 <p align="left">
 	<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,cpp,php,java,md"/>
   </a>
+
+<h2 align="left">Developer Tools</h2>
+<p align="left">
+	<img src="https://skillicons.dev/icons?i=git,npm,bash,powershell,vscode,eclipse,"/>
+  </a>
+</p>
 </p>
 <h2 align="left">Currently learning</h2>
 <p align="left">
@@ -17,13 +23,9 @@ I'm a Computer Science student from the Philippines, passionately building my ve
   </a>
 </p>
 
-<h2 align="left">Developer Tools</h2>
-<p align="left">
-	<img src="https://skillicons.dev/icons?i=git,npm,bash,powershell,vscode,eclipse,"/>
-  </a>
-</p>
+
 <h2 align="left">Statistics</h2>
-	
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aanthonytomas&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aanthonytomas&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aanthonytomas&theme=transparent&utcOffset=8)
