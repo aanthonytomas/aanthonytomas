@@ -36,7 +36,7 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 
 ##
 
-<div align="center">
+<div align="left">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aanthonytomas&theme=transparent" alt="Profile Details"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aanthonytomas&theme=transparent" alt="Stats"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aanthonytomas&theme=transparent&utcOffset=8" alt="Productive Time"/>
