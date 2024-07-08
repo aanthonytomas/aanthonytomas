@@ -14,7 +14,7 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 
 <h2 align="left">Developer Tools</h2>
 <p align="left">
-	<img height = 35px src="https://skillicons.dev/icons?i=git,npm,bash,powershell,vscode,eclipse"/>
+	<img height = 35px src="https://skillicons.dev/icons?i=git,npm,bash,bitbucket,powershell,vscode,eclipse"/>
   </a>
 </p>
 </p>
