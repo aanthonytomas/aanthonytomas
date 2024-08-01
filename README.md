@@ -3,7 +3,7 @@
 	  <img align="right" src="https://visitcount.itsvg.in/api?id=aanthonytomas&label=Profile%20Views&color=12&icon=5&pretty=true" />
 </a> 
 <p>	         
- 
+  
 **`Digital Craftsman (Software Engineer)`**<br> 
 </p>    
 I'm a Computer Science student from the Philippines, passionately building my version of the digital world one step at a time. I create coding projects from the ground up, tackling every aspect from planning and designing to solving real-life problems with code. Leveraging knowledge and resources from the internet has been crucial in developing my skills. I'm currently focusing on front-end development with aspirations to become a full-stack developer. 	    
