@@ -9,7 +9,7 @@
 I'm a Computer Science student from the Philippines, passionately building my version of the digital world one step at a time. I create coding projects from the ground up, tackling every aspect from planning and designing to solving real-life problems with code. Leveraging knowledge and resources from the internet has been crucial in developing my skills. I'm currently focusing on front-end development with aspirations to become a full-stack developer. 	    
 <h2 align="left">Languages & Frameworks </h2>
 <p align="left">
-	<img height = 35px src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,cpp,php,java,npm,bash,powershell"/>
+	<img height = 35px src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,cpp,tailwind,php,java,npm,bash,powershell"/>
   </a>
 
 <h2 align="left">Developer Tools</h2>
@@ -20,7 +20,7 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 </p>
 <h2 align="left">Currently learning</h2>
 <div align="left">
-	<img height = 35px src="https://skillicons.dev/icons?i=typescript,mongodb,react,nodejs,tailwind"/>
+	<img height = 35px src="https://skillicons.dev/icons?i=typescript,mongodb,react,nodejs"/>
   </div>
 
 ## Contact Me
