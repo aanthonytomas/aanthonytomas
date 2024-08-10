@@ -12,7 +12,7 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 	<img height = 35px src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,cpp,tailwind,php,java"/>
   </a>
 
-<h2 align="left">Developer Tools</h2>
+<h2 align="left">Developer Tools</h2> 
 <p align="left">
 	<img height = 35px src="https://skillicons.dev/icons?i=git,bitbucket,vscode,eclipse,md,npm,bash,powershell"/>
   </a> 
