@@ -1,6 +1,6 @@
 <h1 align="left">👨‍💻 Aanthonytomas</h1>       
 <a  href="https://github.com/aanthonytomas">            
-	  <img align="right" src="https://visitcount.itsvg.in/api?id=aanthonytomas&label=Profile%20Views&color=12&icon=5&pretty=true" />
+	  
 </a>   
 <p>	              
      
