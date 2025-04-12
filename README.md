@@ -20,7 +20,7 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 </p>
 <h2 align="left">Currently learning</h2>
 <div align="left">
-	<img height = 35px src="https://skillicons.dev/icons?i=nodejs, angular"/>
+	<img height = 35px src="https://skillicons.dev/icons?i=nodejs,typescript,angular"/>
   </div>
 
 ## Contact Me
