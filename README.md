@@ -28,7 +28,7 @@ I'm a Computer Science student from the Philippines, passionately building my ve
 <a href="https://linkedin.com/in/aanthonytomas" target="_blank" rel="noopener noreferrer">
     <img height="35px" src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-<a  href="mailto:aanthonytomas2@gmail.com">
+<a  href="mailto:aanthonytomas.2@gmail.com">
 	  <img height = 35px src="https://skillicons.dev/icons?i=gmail"/>
 </a> 
 
