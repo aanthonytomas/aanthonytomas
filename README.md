@@ -6,7 +6,7 @@
       
 **`Digital Craftsman (Software Engineer)`**<br>  
 </p>     
-I'm a Computer Science student from the Philippines, passionately building my version of the digital world one step at a time. I create coding projects from the ground up, tackling every aspect from planning and designing to solving real-life problems with code. Leveraging knowledge and resources from the internet has been crucial in developing my skills. Aspiring to become full stack developer.	    
+Experienced in building scalable, high-performance applications, optimizing UI/UX, and implementing Agile methodologies. Passionate about problem-solving, continuous learning, and leveraging modern frameworks to enhance user experiences. Skilled in integrating efficient solutions, collaborating within development teams, and maintaining high-quality code standards.	    
 <h2 align="left">Languages & Frameworks </h2>
 <p align="left">
 	<img height = 35px src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,cpp,vue,react,laravel,tailwind,php,java"/>
