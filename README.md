@@ -72,7 +72,7 @@ Experienced in building scalable, high-performance applications, optimizing UI/U
 
 
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="" />
-</br></br></br>
+</br></br>
 
 
 ##
