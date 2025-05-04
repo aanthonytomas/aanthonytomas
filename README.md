@@ -49,7 +49,7 @@ Experienced in building scalable, high-performance applications, optimizing UI/U
 <img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-</br></br>
+</br></br></br>
 
 ##
 
@@ -72,7 +72,7 @@ Experienced in building scalable, high-performance applications, optimizing UI/U
 
 
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="" />
-</br>
+</br></br></br>
 
 
 ##
