@@ -4,7 +4,7 @@
 </a>          
 <p>	               
       
-**`Digital Craftsman (Software Engineer)`**<br>  
+**`Digital Craftsman (Software Engineer)`**<br>   
 </p>     
 Experienced in building scalable, high-performance applications, optimizing UI/UX, and implementing Agile methodologies. Passionate about problem-solving, continuous learning, and leveraging modern frameworks to enhance user experiences. Skilled in integrating efficient solutions, collaborating within development teams, and maintaining high-quality code standards. Passionate about crafting innovative and efficient software solutions, with a keen interest in AWS, Azure, and cloud platforms. Currently expanding my skillset with active learning in DevOps, Software Engineering Principles, Microservices and more.
 
