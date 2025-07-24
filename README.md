@@ -4,7 +4,7 @@
 </a>          
 <p>	               
       
-**`Digital Craftsman (Software Engineer)`**<br>     
+**`Digital Craftsman (Software Engineer)`**<br>      
 </p>     
 Full Stack Engineer with experience designing, developing, and deploying scalable end-to-end applications. Proficient in frontend frameworks (React, Angular, Vue) and backend technologies (Laravel, Java, Go), with a strong focus on optimizing UI/UX and building robust APIs. Skilled in database design (SQL/NoSQL),and actively learning the cloud service (AWS), and DevOps practices (CI/CD, Docker, Kubernetes). Passionate about problem-solving, system architecture, and Agile methodologies, with a track record of delivering high-performance solutions through clean, maintainable code. Strong collaborator in cross-functional teams, committed to continuous learning and adopting modern frameworks to drive innovation. 
 <br><br>
