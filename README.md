@@ -6,7 +6,7 @@
        
 **`Digital Craftsman (Software Engineer)`**<br>      
 </p>     
-Full Stack Engineer with experience designing, developing, and deploying scalable end-to-end applications. Proficient in frontend frameworks (React, Angular, Vue) and backend technologies (Laravel, Java, Go), with a strong focus on optimizing UI/UX and building robust APIs. Skilled in database design (SQL/NoSQL),and actively learning the cloud service (AWS), and DevOps practices (CI/CD, Docker, Kubernetes). Passionate about problem-solving, system architecture, and Agile methodologies, with a track record of delivering high-performance solutions through clean, maintainable code. Strong collaborator in cross-functional teams, committed to continuous learning and adopting modern frameworks to drive innovation. 
+Full Stack Engineer with experience designing, developing, and deploying scalable end-to-end applications. Proficient in frontend frameworks (React, Angular, Vue) and backend technologies (Laravel, Java, Go), with a strong focus on optimizing UI/UX and building robust APIs. Skilled in database design (SQL/NoSQL/Supabase),and actively learning the cloud service (AWS), and DevOps practices (CI/CD, Docker, Kubernetes). Passionate about problem-solving, system architecture, and Agile methodologies, with a track record of delivering high-performance solutions through clean, maintainable code. Strong collaborator in cross-functional teams, committed to continuous learning and adopting modern frameworks to drive innovation. 
 <br><br>
 A GitHub Foundations Certified. Aspiring to become Tech Lead in the future, who's exteremely commited to learn a lot of technologies to be utilize in the projects. Passionate about crafting innovative and efficient software solutions, with a keen interest in AWS architecture. Currently expanding my skillset with active learning in DevOps, Software Engineering Principles, Microservices and more to provide business solutions. 
  
@@ -16,7 +16,10 @@ A GitHub Foundations Certified. Aspiring to become Tech Lead in the future, who'
 
 <img align="left" alt="Java" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="PHP" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="Python" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Python" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Nextjs" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="FastAPI" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+<img align="left" alt="Django" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/django-original.svg" />
 <img align="left" alt="HTML" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -57,6 +60,7 @@ A GitHub Foundations Certified. Aspiring to become Tech Lead in the future, who'
 <img align="left" alt="Golang" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 <img align="left" alt="AWS" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Docker" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
 
 <img align="left" alt="GitHub" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
