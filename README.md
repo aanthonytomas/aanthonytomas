@@ -11,7 +11,7 @@ Full Stack Engineer with experience designing, developing, and deploying scalabl
 A GitHub Foundations Certified. Aspiring to become Tech Lead in the future, who's exteremely commited to learn a lot of technologies to be utilize in the projects. Passionate about crafting innovative and efficient software solutions, with a keen interest in AWS architecture. Currently expanding my skillset with active learning in DevOps, Software Engineering Principles, Microservices and more to provide business solutions. 
  
 ---
- 
+  
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
