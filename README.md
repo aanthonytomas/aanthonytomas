@@ -70,13 +70,15 @@ A GitHub Foundations Certified. Aspiring to become Tech Lead in the future, who'
 <img align="left" alt="Pandas" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Jupyter" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 <img align="left" alt="Keras" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
+<img align="left" alt="Scikitlearn" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+<img align="left" alt="Selenium" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
 <img align="left" alt="OpenCV" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
 <img align="left" alt="HuggingFace" width="28px" style="padding-right:5px;" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
 <img align="left" alt="Apache Spark" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
 <img align="left" alt="Matplotlib" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
 
 
-</br></br></br>
+</br></br></br></br>
 
 ##
 
