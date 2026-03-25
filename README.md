@@ -82,16 +82,6 @@ A GitHub Foundations Certified. Aspiring to become Tech Lead in the future, who'
 
 ##
 
-### 📑 Actively learning
-<img align="left" alt="Kurbenetes" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-<img align="left" alt="Dbeaver" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
-<img align="left" alt="Ansible" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
-<img align="left" alt="Jenkins" width="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
-</br></br>
-
-
-##
-
 <div align="left">
     <img height=200  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aanthonytomas&theme=transparent" alt="Profile Details"/>
     <img height=200 width=350 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aanthonytomas&theme=transparent" alt="Stats"/>
