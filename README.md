@@ -2,7 +2,7 @@
 <a  href="https://github.com/aanthonytomas">                
 	    
 </a>                  
-<p>	                            v
+<p>	                            
          
 **`Digital Craftsman (Software Engineer)`**<br>      
 </p>     
